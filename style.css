@@ -1,0 +1,49 @@
+.logo {
+	width: 236px;
+	height: 100px;
+	margin: 0px auto;}
+
+.logo img {
+    width: 236px;
+}
+
+.heading p {
+    font-size: 47px;
+}
+
+.heading.text-center {
+    margin: 31px auto;
+}
+
+.body_img img {
+    width: 100%;
+}
+
+.body_img.text-center {
+    width: 929px;
+    margin: auto;
+}
+.footer h2 {
+    font-size: 45px;
+    font-weight: bold;
+    padding-left: 107px;
+}
+
+.footer p {
+    padding-left: 107px;
+    font-size: 15px;
+    line-height: 30px;
+}
+.footer h3 {
+    background: #0CA26D;
+    padding: 50px;
+    font-size: 42px;
+    color: #fff;
+    text-align: center;
+    margin-left: 107px !important;
+    margin-top: 50px !important;
+}
+
+.footer {
+    margin-bottom: 26px;
+}
